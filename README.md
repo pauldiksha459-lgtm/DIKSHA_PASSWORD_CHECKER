@@ -24,5 +24,3 @@ It also provides helpful suggestions to improve password security.
 ## 🛠️ Technologies Used
 - Python  
 - Regular Expressions (`re` module)
-```bash
-git clone https://github.com/your-username/password-checker.git
